@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/AnalogClock">
+        <file>analogclock.qrc</file>
+    </qresource>
+</RCC>

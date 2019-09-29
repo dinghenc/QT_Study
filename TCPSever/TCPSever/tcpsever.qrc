@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/TCPSever">
+        <file>tcpsever.qrc</file>
+    </qresource>
+</RCC>

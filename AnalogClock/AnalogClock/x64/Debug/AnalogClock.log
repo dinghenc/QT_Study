@@ -1,0 +1,25 @@
+﻿生成启动时间为 2019/4/9 14:27:09。
+     1>项目“E:\Documents\Visual Studio 2013\Projects\QT\AnalogClock\AnalogClock\AnalogClock.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>CustomBuild:
+         Moc'ing analogclock.h...
+         Uic'ing analogclock.ui...
+         Rcc'ing analogclock.qrc...
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\Qt5.6.0\5.6\msvc2013_64\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.6.0\5.6\msvc2013_64\include\QtCore /ID:\Qt\Qt5.6.0\5.6\msvc2013_64\include\QtGui /ID:\Qt\Qt5.6.0\5.6\msvc2013_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt analogclock.cpp GeneratedFiles\Debug\moc_analogclock.cpp main.cpp
+         analogclock.cpp
+         moc_analogclock.cpp
+         main.cpp
+         正在生成代码...
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\Qt5.6.0\5.6\msvc2013_64\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.6.0\5.6\msvc2013_64\include\QtCore /ID:\Qt\Qt5.6.0\5.6\msvc2013_64\include\QtGui /ID:\Qt\Qt5.6.0\5.6\msvc2013_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\qrc_analogclock.cpp
+         qrc_analogclock.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Documents\Visual Studio 2013\Projects\QT\AnalogClock\x64\Debug\\AnalogClock.exe" /NOLOGO /LIBPATH:D:\Qt\Qt5.6.0\5.6\msvc2013_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Documents\Visual Studio 2013\Projects\QT\AnalogClock\x64\Debug\AnalogClock.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Documents\Visual Studio 2013\Projects\QT\AnalogClock\x64\Debug\AnalogClock.lib" /MACHINE:X64 x64\Debug\analogclock.obj
+         x64\Debug\moc_analogclock.obj
+         x64\Debug\qrc_analogclock.obj
+         x64\Debug\main.obj
+         AnalogClock.vcxproj -> E:\Documents\Visual Studio 2013\Projects\QT\AnalogClock\x64\Debug\AnalogClock.exe
+     1>已完成生成项目“E:\Documents\Visual Studio 2013\Projects\QT\AnalogClock\AnalogClock\AnalogClock.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.95

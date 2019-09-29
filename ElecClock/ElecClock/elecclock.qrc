@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ElecClock">
+        <file>elecclock.qrc</file>
+    </qresource>
+</RCC>

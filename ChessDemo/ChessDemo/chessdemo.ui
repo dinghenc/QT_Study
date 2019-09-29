@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>ChessDemoClass</class>
+ <widget class="QWidget" name="ChessDemoClass" >
+  <property name="objectName" >
+   <string notr="true">ChessDemoClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>ChessDemo</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="chessdemo.qrc"/>
+ </resources>
+ <connections/>
+</UI>

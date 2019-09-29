@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/QTDemo">
+        <file>qtdemo.qrc</file>
+    </qresource>
+</RCC>

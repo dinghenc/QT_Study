@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ThreadDemo">
+        <file>threaddemo.qrc</file>
+    </qresource>
+</RCC>

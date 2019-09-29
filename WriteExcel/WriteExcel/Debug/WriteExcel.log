@@ -1,0 +1,15 @@
+﻿  Moc'ing writeexcel.h...
+  Uic'ing writeexcel.ui...
+  Rcc'ing writeexcel.qrc...
+  moc_writeexcel.cpp
+  main.cpp
+  writeexcel.cpp
+  正在生成代码...
+  qrc_writeexcel.cpp
+Qt5AxContainerd.lib(qaxbase.obj) : warning LNK4099: 未找到 PDB“qt5axcontainerd.pdb”(使用“Qt5AxContainerd.lib(qaxbase.obj)”或在“E:\Documents\Visual Studio 2013\Projects\QT\QTTest\WriteExcel\Win32\Debug\qt5axcontainerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxContainerd.lib(qaxobject.obj) : warning LNK4099: 未找到 PDB“qt5axcontainerd.pdb”(使用“Qt5AxContainerd.lib(qaxobject.obj)”或在“E:\Documents\Visual Studio 2013\Projects\QT\QTTest\WriteExcel\Win32\Debug\qt5axcontainerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxContainerd.lib(qaxtypes.obj) : warning LNK4099: 未找到 PDB“qt5axcontainerd.pdb”(使用“Qt5AxContainerd.lib(qaxtypes.obj)”或在“E:\Documents\Visual Studio 2013\Projects\QT\QTTest\WriteExcel\Win32\Debug\qt5axcontainerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxContainerd.lib(qaxutils.obj) : warning LNK4099: 未找到 PDB“qt5axcontainerd.pdb”(使用“Qt5AxContainerd.lib(qaxutils.obj)”或在“E:\Documents\Visual Studio 2013\Projects\QT\QTTest\WriteExcel\Win32\Debug\qt5axcontainerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxBased.lib(qaxtypefunctions.obj) : warning LNK4099: 未找到 PDB“qt5axbased.pdb”(使用“Qt5AxBased.lib(qaxtypefunctions.obj)”或在“E:\Documents\Visual Studio 2013\Projects\QT\QTTest\WriteExcel\Win32\Debug\qt5axbased.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxBased.lib(Qt5AxBased_pch.obj) : warning LNK4099: 未找到 PDB“qt5axbased.pdb”(使用“Qt5AxBased.lib(Qt5AxBased_pch.obj)”或在“E:\Documents\Visual Studio 2013\Projects\QT\QTTest\WriteExcel\Win32\Debug\qt5axbased.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  WriteExcel.vcxproj -> E:\Documents\Visual Studio 2013\Projects\QT\QTTest\WriteExcel\Win32\Debug\WriteExcel.exe
